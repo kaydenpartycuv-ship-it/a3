@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shantungmoxie.com/sitemap.xml

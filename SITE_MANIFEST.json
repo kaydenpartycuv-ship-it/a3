@@ -1,0 +1,207 @@
+{
+  "domain": "shantungmoxie",
+  "niche": "Fashion",
+  "design_concept": "Architectural Swiss Grid & Full-Width Panorama",
+  "archetype_id": "swiss_panorama",
+  "pages": [
+    "index.html",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "shantungmoxie_asset_196.jpg",
+      "size_kb": 159.86,
+      "md5": "a438163f5e1cdd171d9b4bbc517108c3",
+      "description": "Bespoke Fashion benchmark: shantungmoxie_asset_196.jpg",
+      "page": "index.html",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "shantungmoxie_asset_26.jpg",
+      "size_kb": 347.35,
+      "md5": "c354d70b2b05161a024422022ffab035",
+      "description": "Bespoke Fashion benchmark: shantungmoxie_asset_26.jpg",
+      "page": "index.html",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "shantungmoxie_asset_28.jpg",
+      "size_kb": 149.09,
+      "md5": "4768fb8f02aec3af2c449f552df829ae",
+      "description": "Bespoke Fashion benchmark: shantungmoxie_asset_28.jpg",
+      "page": "index.html",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "shantungmoxie_asset_29.jpg",
+      "size_kb": 103.19,
+      "md5": "4b32d14f15e255b1dc81ed71ade53c68",
+      "description": "Bespoke Fashion benchmark: shantungmoxie_asset_29.jpg",
+      "page": "index.html",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "shantungmoxie_asset_31.jpg",
+      "size_kb": 242.74,
+      "md5": "c12ca3ddcde6cd53989b04ca3eb1c944",
+      "description": "Bespoke Fashion benchmark: shantungmoxie_asset_31.jpg",
+      "page": "index.html",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "shantungmoxie_asset_32.jpg",
+      "size_kb": 158.43,
+      "md5": "c828e57ef245289d1d203ea7d0aae305",
+      "description": "Bespoke Fashion benchmark: shantungmoxie_asset_32.jpg",
+      "page": "index.html",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "shantungmoxie_asset_33.jpg",
+      "size_kb": 289.43,
+      "md5": "17d4731ca99fb18e07c9891fb09eb6d9",
+      "description": "Bespoke Fashion benchmark: shantungmoxie_asset_33.jpg",
+      "page": "index.html",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "shantungmoxie_asset_34.jpg",
+      "size_kb": 120.28,
+      "md5": "afda67c40285dd5987e149f98d36563e",
+      "description": "Bespoke Fashion benchmark: shantungmoxie_asset_34.jpg",
+      "page": "index.html",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "shantungmoxie_asset_35.jpg",
+      "size_kb": 31.12,
+      "md5": "5a194ece9f0632bf7f7e600ea97deec5",
+      "description": "Bespoke Fashion benchmark: shantungmoxie_asset_35.jpg",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "shantungmoxie_asset_36.jpg",
+      "size_kb": 156.37,
+      "md5": "badff0558eb4095f9d988d767b5088cb",
+      "description": "Bespoke Fashion benchmark: shantungmoxie_asset_36.jpg",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "shantungmoxie_asset_37.jpg",
+      "size_kb": 163.7,
+      "md5": "886f507ed2d3b6f185178746f8e2fe4a",
+      "description": "Bespoke Fashion benchmark: shantungmoxie_asset_37.jpg",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "shantungmoxie_asset_38.jpg",
+      "size_kb": 169.08,
+      "md5": "c7fdbdb7976ff20cd6dae14b7d4faa7e",
+      "description": "Bespoke Fashion benchmark: shantungmoxie_asset_38.jpg",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "shantungmoxie_asset_39.jpg",
+      "size_kb": 188.01,
+      "md5": "4e589368db04816f897b466879033bff",
+      "description": "Bespoke Fashion benchmark: shantungmoxie_asset_39.jpg",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "shantungmoxie_asset_14.jpg",
+      "size_kb": 170.58,
+      "md5": "c6d7f6bc2b5a164d9a28d0ee3ca1ef04",
+      "description": "02015 0450 11th century fashion mo",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "shantungmoxie_asset_24.jpg",
+      "size_kb": 145.04,
+      "md5": "548d373023fc87c807c1e04cc14213fa",
+      "description": "a fashion show at dan hotel in tel",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "shantungmoxie_asset_25.jpg",
+      "size_kb": 161.85,
+      "md5": "17335f54f11006f0581bbebd9464f3c1",
+      "description": "a fashion show at dan hotel in tel",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "shantungmoxie_asset_30.jpg",
+      "size_kb": 131.04,
+      "md5": "46a2172464a055fe60a3f71d96269eaa",
+      "description": "biedermeier fashion met dp844337",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "shantungmoxie_asset_40.jpg",
+      "size_kb": 116.67,
+      "md5": "a4c530858ca6c49e2eacb9561bd12e25",
+      "description": "evol fashion show",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "shantungmoxie_asset_47.jpg",
+      "size_kb": 173.81,
+      "md5": "9b0de032f068c58f2035e32b9eb10333",
+      "description": "fashion mode met dp844764",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "shantungmoxie_asset_51.jpg",
+      "size_kb": 72.7,
+      "md5": "4b8b7fb36e145930bc45398caea39b4a",
+      "description": "fashion runway",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://shantungmoxie.com/sitemap.xml",
+    "robots": "https://shantungmoxie.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
